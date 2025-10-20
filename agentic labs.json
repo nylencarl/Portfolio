@@ -1,0 +1,173 @@
+{
+  "brand": {
+    "name": "Agentic Labs",
+    "description": "Energy and creativity",
+    "recommendedFont": "Arial"
+  },
+  "coreColors": {
+    "primary": "#E91E63",
+    "secondary": "#880E4F",
+    "accent": "#FFEB3B",
+    "neutral": "#FAFAFA"
+  },
+  "fluentColors": {
+    "primary": {
+      "50": "#FCE4EC",
+      "100": "#F8BBD9",
+      "200": "#F48FB1",
+      "300": "#F06292",
+      "400": "#EC407A",
+      "500": "#E91E63",
+      "600": "#D81B60",
+      "700": "#C2185B",
+      "800": "#AD1457",
+      "900": "#880E4F"
+    },
+    "secondary": {
+      "50": "#F3E5F5",
+      "100": "#E1BEE7",
+      "200": "#CE93D8",
+      "300": "#BA68C8",
+      "400": "#AB47BC",
+      "500": "#9C27B0",
+      "600": "#8E24AA",
+      "700": "#7B1FA2",
+      "800": "#6A1B9A",
+      "900": "#4A148C"
+    },
+    "accent": {
+      "50": "#FFFDE7",
+      "100": "#FFF9C4",
+      "200": "#FFF59D",
+      "300": "#FFF176",
+      "400": "#FFEE58",
+      "500": "#FFEB3B",
+      "600": "#FDD835",
+      "700": "#FBC02D",
+      "800": "#F9A825",
+      "900": "#F57F17"
+    },
+    "neutral": {
+      "50": "#FAFAFA",
+      "100": "#F5F5F5",
+      "200": "#EEEEEE",
+      "300": "#E0E0E0",
+      "400": "#BDBDBD",
+      "500": "#9E9E9E",
+      "600": "#757575",
+      "700": "#616161",
+      "800": "#424242",
+      "900": "#212121"
+    },
+    "complementary": {
+      "teal": {
+        "50": "#E0F2F1",
+        "100": "#B2DFDB",
+        "200": "#80CBC4",
+        "300": "#4DB6AC",
+        "400": "#26A69A",
+        "500": "#009688",
+        "600": "#00897B",
+        "700": "#00796B",
+        "800": "#00695C",
+        "900": "#004D40"
+      },
+      "orange": {
+        "50": "#FFF3E0",
+        "100": "#FFE0B2",
+        "200": "#FFCC80",
+        "300": "#FFB74D",
+        "400": "#FFA726",
+        "500": "#FF9800",
+        "600": "#FB8C00",
+        "700": "#F57C00",
+        "800": "#EF6C00",
+        "900": "#E65100"
+      }
+    },
+    "semantic": {
+      "success": {
+        "light": "#C8E6C9",
+        "main": "#4CAF50",
+        "dark": "#2E7D32"
+      },
+      "warning": {
+        "light": "#FFE0B2",
+        "main": "#FF9800",
+        "dark": "#E65100"
+      },
+      "error": {
+        "light": "#FFCDD2",
+        "main": "#F44336",
+        "dark": "#C62828"
+      },
+      "info": {
+        "light": "#BBDEFB",
+        "main": "#2196F3",
+        "dark": "#0D47A1"
+      }
+    }
+  },
+  "gradients": {
+    "primary": "linear-gradient(135deg, #E91E63 0%, #880E4F 100%)",
+    "energetic": "linear-gradient(135deg, #E91E63 0%, #FFEB3B 100%)",
+    "creative": "linear-gradient(135deg, #880E4F 0%, #9C27B0 100%)",
+    "vibrant": "linear-gradient(135deg, #FFEB3B 0%, #FF9800 50%, #E91E63 100%)",
+    "soft": "linear-gradient(135deg, #FAFAFA 0%, #F5F5F5 100%)"
+  },
+  "shadows": {
+    "primary": "0 4px 20px rgba(233, 30, 99, 0.3)",
+    "secondary": "0 4px 20px rgba(136, 14, 79, 0.3)",
+    "accent": "0 4px 20px rgba(255, 235, 59, 0.3)",
+    "soft": "0 2px 10px rgba(0, 0, 0, 0.1)",
+    "medium": "0 4px 20px rgba(0, 0, 0, 0.15)",
+    "strong": "0 8px 30px rgba(0, 0, 0, 0.2)"
+  },
+  "typography": {
+    "fontFamily": "Arial, sans-serif",
+    "weights": {
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    },
+    "sizes": {
+      "xs": "12px",
+      "sm": "14px",
+      "base": "16px",
+      "lg": "18px",
+      "xl": "20px",
+      "2xl": "24px",
+      "3xl": "30px",
+      "4xl": "36px",
+      "5xl": "48px"
+    }
+  },
+  "borderRadius": {
+    "none": "0px",
+    "sm": "4px",
+    "md": "8px",
+    "lg": "12px",
+    "xl": "16px",
+    "2xl": "24px",
+    "full": "9999px"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "2xl": "48px",
+    "3xl": "64px",
+    "4xl": "96px"
+  },
+  "usage": {
+    "primary": "Use for main CTAs, headers, and brand elements",
+    "secondary": "Use for secondary actions and supporting elements",
+    "accent": "Use sparingly for highlights and attention-grabbing elements",
+    "neutral": "Use for backgrounds, text, and subtle elements",
+    "complementary": "Use for variety and visual interest without conflicting with brand colors"
+  }
+}
